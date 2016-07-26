@@ -1,0 +1,18 @@
+--------------------
+2016.07.25.TODO.#1: Kendo UI - Drop Down
+
+- GOAL: Drop Down list change iFrame 
+-   Fill drop down with three test site URLs
+-   When user selects one row, iFrame below will update to selected URL
+
+- Data - DropDown : Test Data:
+    1) Bach
+    2) Chopin
+    3) Cloudburst
+       
+- When select above - goto iFrame URL below:
+    1) URL: http://www.allpianoscores.com/free_scores.php?id=54
+    2) URL: https://en.wikipedia.org/wiki/%C3%89tude_Op._10,_No._5_(Chopin)
+    3) URL: https://en.wikipedia.org/wiki/Cloudburst_%28Whitacre%29
+    
+- Kendo Example:  http://demos.telerik.com/kendo-ui/dropdownlist/mvvm
